@@ -1,0 +1,37 @@
+/* line 1, ../sass/styles.scss */
+html {
+  scroll-behavior: smooth;
+}
+
+/* line 5, ../sass/styles.scss */
+body {
+  margin: 10px 10px;
+}
+
+/* line 9, ../sass/styles.scss */
+#img-ba {
+  width: 100%;
+  max-height: 45vh;
+}
+
+/* line 14, ../sass/styles.scss */
+.logo {
+  width: 3rem;
+  height: auto;
+}
+
+/* line 18, ../sass/styles.scss */
+.test {
+  width: 300px;
+  height: 200px;
+}
+
+/* line 24, ../sass/styles.scss */
+.icon {
+  padding-left: 8rem;
+}
+
+/* line 32, ../sass/styles.scss */
+.card:hover {
+  transform: scale(1.1);
+}
